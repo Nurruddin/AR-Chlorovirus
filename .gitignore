@@ -2,7 +2,7 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-Assets/Editor/Migration/com.ptc.vuforia.engine-10.19.3.tgz
+/Assets/Editor/Migration/com.ptc.vuforia.engine-10.19.3.tgz
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
