@@ -8,6 +8,6 @@ public class OpenLink : MonoBehaviour
     public void URLOpener()
     {
         // Open the PDF file with an external viewer
-        Application.OpenURL("https://cdn.jsdelivr.net/gh/Nurruddin/ARApp/ARAppHelp.pdf");
+        Application.OpenURL("https://cdn.jsdelivr.net/gh/Nurruddin/AR-Chlorovirus/ARAppHelp.pdf");
     }
 }
